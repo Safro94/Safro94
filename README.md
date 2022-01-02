@@ -1,4 +1,4 @@
-### Hi there, I'm Matias Safranchik 👋
+### Hi there, I'm Matias 👋
 
 ## I'm a passionate frontend/fullstack engineer
 
