@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other passionate developers
-- 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love going to the gym and travelling to new places.
+- 🥅 2022 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
